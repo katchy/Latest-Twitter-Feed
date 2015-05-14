@@ -1,7 +1,6 @@
 == README
 
-This  is a app which takes in a twitter user id and provides the latest twitter feed from that page. the api call to twitter is performed using REST authentication. 
-this is a Rails project with a simple search page. it uses Ajax to update the page with the tweet.
-Sass framework bourbon is used to style thge front end.
+This  is a application, which takes in a twitter user id and provides the latest twitter feed from that user. The REST API of twitter is user for read and writting of data.
+This is a Rails project with a simple search page. it uses Ajax to update the page with the tweet.
+Sass framework bourbon is used to style the front end.
 
-<tt>rake doc:app</tt>.
